@@ -30,24 +30,22 @@ Select what you'd like to do (All of the above suggested):  <br/>
 <img src="https://i.imgur.com/d3JafES.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import Start/End Data Frame: <br/>
+<img src="https://i.imgur.com/uZNzoa7.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Import Coordinate System Data Frame:  <br/>
+<img src="https://i.imgur.com/tcWX0wf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Script Organizes Coordinate System to the Start/End Data Frame:  <br/>
+<img src="https://i.imgur.com/0ZR6cdw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Data Before and After:  <br/>
+<img src="https://i.imgur.com/aEseGUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
